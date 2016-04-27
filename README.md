@@ -1,4 +1,2 @@
-# doxygen-test
-Test installing doxygen docs as gh-pages (2)
-
-View [here](https://sherm1.github.io/doxygen-test).
+# simbody-master-doxygen
+HTML doxygen output from the work-in-progress `master` branch of the `simbody` repository.
